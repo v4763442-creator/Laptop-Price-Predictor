@@ -6,7 +6,7 @@ The project follows an end-to-end Machine Learning workflow, including data clea
 
 ## 🚀 Live Demo
 
-### 👉 [Try the Laptop Price Predictor](https://laptop-price-predictor-7bdqkdfk4tmc2tbjcyjmjma.streamlit.app/)
+### 👉 [Try the Laptop Price Predictor](https://laptop-price-predictor-7bdqkdfk4tmc2tbjcymima.streamlit.app/)
 
 Enter the laptop specifications and get an estimated laptop price instantly.
 
